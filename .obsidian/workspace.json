@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "霍格沃茨/未命名.md",
+                "file": "霍格沃茨/123.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6580869c2706feb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "霍格沃茨/123.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "霍格沃茨/未命名.md",
+                "file": "霍格沃茨/123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "霍格沃茨/未命名.md",
+                "file": "霍格沃茨/123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "霍格沃茨/未命名.md"
+                "file": "霍格沃茨/123.md"
               }
             }
           }
@@ -137,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf9cad62d995eaa2",
+  "active": "6580869c2706feb7",
   "lastOpenFiles": [
+    "未命名.md",
+    "霍格沃茨/123.md",
     "模版/模版.md",
-    "霍格沃茨/未命名.md",
     "123.md",
     "霍格沃茨/pdf.md",
     "霍格沃茨/docker文档.md",
     "霍格沃茨/未命名 1.md",
     "010-Templates/未命名.md",
     "霍格沃茨/CentOS 7关闭图形化界面.md",
-    "深入浅出Docker@www.cmsblogs.cn.pdf",
-    "pdf.md"
+    "深入浅出Docker@www.cmsblogs.cn.pdf"
   ]
 }

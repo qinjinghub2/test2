@@ -4,5 +4,5 @@
   "defaultViewMode": "source",
   "showLineNumber": true,
   "foldHeading": true,
-  "showFrontmatter": true
+  "showFrontmatter": false
 }
