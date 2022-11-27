@@ -11,8 +11,12 @@
             "id": "b42c2d367b495d49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "010-Templates/未命名.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "010-Templates/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "010-Templates/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "010-Templates/未命名.md"
+              }
             }
           }
         ]
@@ -128,11 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1da0b86005b335c",
+  "active": "b42c2d367b495d49",
   "lastOpenFiles": [
+    "未命名.md",
     "010-Templates/pdf.md",
     "霍格沃茨/未命名.md",
-    "未命名.md",
     "深入浅出Docker@www.cmsblogs.cn.pdf",
     "pdf.md",
     "霍格沃茨/docker文档.md",

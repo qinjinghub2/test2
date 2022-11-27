@@ -6,7 +6,7 @@
     "sepia": 0
   },
   "debugLogging": false,
-  "customDefaultPath": "/Users/qinjing/git/git_hogwarts",
+  "customDefaultPath": "",
   "epubSettings": {
     "readingMode": "pagination",
     "fontSize": 100
