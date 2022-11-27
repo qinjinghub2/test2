@@ -4,25 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f10913b3fef27207",
+        "id": "4bd13b30b8486b35",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb42621b3ad478b",
+            "id": "46a71aa6f94a5a23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "深入浅出Docker@www.cmsblogs.cn.pdf"
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "e94711002a4e9a52",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f58c63f63083e1de",
+            "id": "22c8f55dbe5b90a4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -31,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f58c63f63083e1de",
+  "active": "22c8f55dbe5b90a4",
   "lastOpenFiles": [
+    "pdf.md",
     "深入浅出Docker@www.cmsblogs.cn.pdf",
     "霍格沃茨/docker文档.md",
     "霍格沃茨/macos.md"
