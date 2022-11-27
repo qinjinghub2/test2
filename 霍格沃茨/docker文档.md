@@ -10,3 +10,5 @@ docker
 
 
 
+ls
+
