@@ -1,6 +1,8 @@
 {
   "promptDelete": false,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "source",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "foldHeading": true,
+  "showFrontmatter": true
 }

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/#{{time}}日报{{title}}.md",
+                "file": "模版/模版.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模版/#{{time}}日报{{title}}.md",
+                "file": "模版/模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模版/#{{time}}日报{{title}}.md",
+                "file": "模版/模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模版/#{{time}}日报{{title}}.md"
+                "file": "模版/模版.md"
               }
             }
           }
@@ -140,7 +140,7 @@
   "active": "bf9cad62d995eaa2",
   "lastOpenFiles": [
     "霍格沃茨/未命名.md",
-    "模版/#{{time}}日报{{title}}.md",
+    "模版/模版.md",
     "霍格沃茨/pdf.md",
     "霍格沃茨/docker文档.md",
     "霍格沃茨/未命名 1.md",
