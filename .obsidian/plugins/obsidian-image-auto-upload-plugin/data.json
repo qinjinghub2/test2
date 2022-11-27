@@ -1,8 +1,8 @@
 {
-  "uploadByClipSwitch": true,
+  "uploadByClipSwitch": false,
   "uploader": "PicGo-Core",
   "uploadServer": "http://127.0.0.1:36677/upload",
-  "picgoCorePath": "picgo u",
+  "picgoCorePath": "picgo upload",
   "menuMode": "auto",
   "workOnNetWork": true,
   "fixPath": false,
