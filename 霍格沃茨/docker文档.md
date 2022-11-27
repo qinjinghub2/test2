@@ -10,4 +10,6 @@ docker
 
 
 
-pwd
+pwd2
+5555
+lll
