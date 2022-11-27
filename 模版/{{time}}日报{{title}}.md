@@ -1,3 +1,6 @@
+#{{time}}日报{{title}}
+{{date:YYYY-MM-DD}}
+
 今日完成：
 
 

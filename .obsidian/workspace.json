@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1fbf352b1de0795e",
+        "id": "9f567e373a92312f",
         "type": "tabs",
         "children": [
           {
-            "id": "f125a7dcf0e14db6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "霍格沃茨/pdf.md"
-              }
-            }
-          },
-          {
-            "id": "9e1882757d7f67f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "霍格沃茨/pdf.md"
-              }
-            }
-          },
-          {
-            "id": "555c0ed0b2194eef",
+            "id": "bf9cad62d995eaa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "霍格沃茨/未命名.md",
+                "file": "模版/{{time}}日报{{title}}.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "霍格沃茨/未命名.md",
+                "file": "模版/{{time}}日报{{title}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "霍格沃茨/未命名.md",
+                "file": "模版/{{time}}日报{{title}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "霍格沃茨/未命名.md"
+                "file": "模版/{{time}}日报{{title}}.md"
               }
             }
           }
@@ -158,11 +137,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1da0b86005b335c",
+  "active": "bf9cad62d995eaa2",
   "lastOpenFiles": [
     "霍格沃茨/未命名.md",
-    "霍格沃茨/pdf.md",
     "模版/{{time}}日报{{title}}.md",
+    "霍格沃茨/pdf.md",
     "霍格沃茨/docker文档.md",
     "霍格沃茨/未命名 1.md",
     "010-Templates/未命名.md",
