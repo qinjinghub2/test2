@@ -15,11 +15,12 @@
               "state": {
                 "file": "010-Templates/未命名.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
