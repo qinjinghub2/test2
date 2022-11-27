@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97c30fca8523b52c",
+        "id": "1fbf352b1de0795e",
         "type": "tabs",
         "children": [
           {
-            "id": "013f08a6f827e8f5",
+            "id": "f125a7dcf0e14db6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf-annotator",
+              "state": {
+                "file": "010-Templates/pdf.md"
+              }
             }
           }
         ],
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "010-Templates/pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "010-Templates/pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "010-Templates/pdf.md"
+              }
             }
           }
         ]
@@ -129,14 +135,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "013f08a6f827e8f5",
+  "active": "f125a7dcf0e14db6",
   "lastOpenFiles": [
-    "霍格沃茨/未命名 1.md",
+    "霍格沃茨/docker文档.md",
     "霍格沃茨/未命名.md",
+    "霍格沃茨/未命名 1.md",
     "010-Templates/pdf.md",
     "010-Templates/未命名.md",
     "霍格沃茨/CentOS 7关闭图形化界面.md",
-    "霍格沃茨/docker文档.md",
     "未命名.md",
     "深入浅出Docker@www.cmsblogs.cn.pdf",
     "pdf.md",
