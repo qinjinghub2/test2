@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd13b30b8486b35",
+        "id": "9597eed77532d9a2",
         "type": "tabs",
         "children": [
           {
-            "id": "46a71aa6f94a5a23",
+            "id": "39ae0e991f4b5783",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "深入浅出Docker@www.cmsblogs.cn.pdf"
-              }
-            }
-          },
-          {
-            "id": "22c8f55dbe5b90a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "深入浅出Docker@www.cmsblogs.cn.pdf"
+                "file": "010-Templates/pdf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深入浅出Docker@www.cmsblogs.cn.pdf",
+                "file": "010-Templates/pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深入浅出Docker@www.cmsblogs.cn.pdf",
+                "file": "010-Templates/pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深入浅出Docker@www.cmsblogs.cn.pdf"
+                "file": "010-Templates/pdf.md"
               }
             }
           }
@@ -145,10 +136,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22c8f55dbe5b90a4",
+  "active": "c1da0b86005b335c",
   "lastOpenFiles": [
-    "pdf.md",
+    "霍格沃茨/未命名.md",
+    "010-Templates/pdf.md",
+    "未命名.md",
     "深入浅出Docker@www.cmsblogs.cn.pdf",
+    "pdf.md",
     "霍格沃茨/docker文档.md",
     "霍格沃茨/macos.md"
   ]
